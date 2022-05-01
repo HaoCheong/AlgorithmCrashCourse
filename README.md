@@ -16,8 +16,8 @@ This repo contains a number of crash course helper notes for introducing and exp
 - **Dynamic Programming:** Dynammic Programming, understanding recusive method
 
 ### Side topics
-- Quick Tips: Helpful "quick" guide summarising the important aspects as well as practical advice on approaching the questions.
-- Questions Walkthrough: (In Progress)
+- **Quick Tips:** Helpful "quick" guide summarising the important aspects as well as practical advice on approaching the questions.
+- **Questions Walkthrough:** (In Progress)
 
 ## Conclusion:
 I hope whoever finds this to be useful when tackling these problems and good luck on any algorithm endeavours you may have!
