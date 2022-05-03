@@ -22,3 +22,4 @@ This repo contains a number of crash course helper notes for introducing and exp
 ## Conclusion:
 I hope whoever finds this to be useful when tackling these problems and good luck on any algorithm endeavours you may have!
 
+<a href="https://www.buymeacoffee.com/haocheong5" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
