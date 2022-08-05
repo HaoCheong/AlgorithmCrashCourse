@@ -15,7 +15,7 @@ This repo contains a number of crash course helper notes for introducing and exp
 - **Time Complexity:** Big O and common helpful algorithms
 - **Divide and Conquer:** Themes and methodology of approaching questions
 - **Greedy Method:** Greedy procedure, mindset, worked out steps
-- **Dynamic Programming:** Dynammic Programming, understanding recusive method
+- **Dynamic Programming:** Dynamic Programming, understanding recusive method
 
 ### Side topics
 - **Quick Tips:** Helpful "quick" guide summarising the important aspects as well as practical advice on approaching the questions.
