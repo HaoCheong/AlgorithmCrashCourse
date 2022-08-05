@@ -19,7 +19,7 @@ This repo contains a number of crash course helper notes for introducing and exp
 
 ### Side topics
 - **Quick Tips:** Helpful "quick" guide summarising the important aspects as well as practical advice on approaching the questions.
-- **Questions Walkthrough:** (In Progress)
+- **Questions Walkthrough:** List of couple of selected questions on every topic with detailed but approachable walkthroughs.
 
 ## Conclusion:
 I hope whoever finds this to be useful when tackling these problems and good luck on any algorithm endeavours you may have!
